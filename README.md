@@ -12,6 +12,7 @@ I am a ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 - 🔭 I’m working as a Senior ML Engineer currently focusing on NLP.
 - 🌱 Exploring Kaggle on the side.
+- 💻 Open Source Contributor.
 - ⚡ In my free time I solve problems on Leetcode and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Vishwas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishwasgpai)
 
