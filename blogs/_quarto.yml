@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  navbar:
+    right:
+      - about.qmd
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/vishwasgpai/
+      - icon: github
+        text: Github
+        href: https://github.com/Threepointone4
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

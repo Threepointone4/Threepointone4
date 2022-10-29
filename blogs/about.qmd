@@ -1,0 +1,16 @@
+---
+title: "About"
+image: pics.jpeg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/vishwasgpai/
+    - icon: github
+      text: Github
+      href: https://github.com/Threepointone4
+
+---
+
+Socials
