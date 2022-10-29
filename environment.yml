@@ -1,0 +1,5 @@
+name: null
+dependencies:
+  - jupyterlab
+  - numpy
+  - matplotlib
