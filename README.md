@@ -22,4 +22,5 @@ I am a ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ### ✍️ Blog Posts : 
 - [A Simple Hugging Face Classifier](https://www.kaggle.com/vishwasgpai/a-simple-hugging-face-classifier)
 - [Guide for creating CNN model using CSV file](https://www.kaggle.com/code/vishwasgpai/guide-for-creating-cnn-model-using-csv-file)<!-- BLOG-POST-LIST:START -->
+- [Personal Blog Site](https://threepointone4.github.io/portfolio/)
 <!-- BLOG-POST-LIST:END -->
