@@ -14,7 +14,7 @@ I am a ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - ⚡ In my free time I solve problems on Leetcode and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Vishwas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishwasgpai)
 
-
+My [Portfolio website](https://threepointone4.github.io/portfolio/).
 
 [![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Threepointone4&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=True)](https://github.com/Threepointone4/github-readme-stats)
 
@@ -22,5 +22,4 @@ I am a ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ### ✍️ Blog Posts : 
 - [A Simple Hugging Face Classifier](https://www.kaggle.com/vishwasgpai/a-simple-hugging-face-classifier)
 - [Guide for creating CNN model using CSV file](https://www.kaggle.com/code/vishwasgpai/guide-for-creating-cnn-model-using-csv-file)<!-- BLOG-POST-LIST:START -->
-- [Personal Blog Site](https://threepointone4.github.io/portfolio/)
 <!-- BLOG-POST-LIST:END -->
