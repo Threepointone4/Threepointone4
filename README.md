@@ -18,8 +18,15 @@ My [Portfolio website](https://threepointone4.github.io/portfolio/).
 
 [![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Threepointone4&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=True)](https://github.com/Threepointone4/github-readme-stats)
 
+### Papers:
+- [3D Reconstruction of 2D X-Ray Images](https://ieeexplore.ieee.org/document/9031045)
 
 ### ✍️ Blog Posts : 
+<!-- BLOG-POST-LIST:START -->
 - [A Simple Hugging Face Classifier](https://www.kaggle.com/vishwasgpai/a-simple-hugging-face-classifier)
-- [Guide for creating CNN model using CSV file](https://www.kaggle.com/code/vishwasgpai/guide-for-creating-cnn-model-using-csv-file)<!-- BLOG-POST-LIST:START -->
+- [Guide for creating CNN model using CSV file](https://www.kaggle.com/code/vishwasgpai/guide-for-creating-cnn-model-using-csv-file)
+- [Introduction to Stable Diffusion](https://threepointone4.github.io/portfolio/posts/Introduction_to_Stable_Diffusion/)
+- [Building components of Stable Diffusion](https://threepointone4.github.io/portfolio/posts/Building_components_of_Stable_Diffusion/)
+- [Negative Prompts in Stable Diffusion](https://threepointone4.github.io/portfolio/posts/Negetive_Prompts_in_Stable_Diffusion/)
+
 <!-- BLOG-POST-LIST:END -->
