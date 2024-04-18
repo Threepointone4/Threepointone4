@@ -4,14 +4,13 @@
   
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Threepointone4&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-I am a ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Applied Data Scientist at NVIDIA.
 
-- 🔭 I’m working as a Senior ML Engineer currently focusing on NLP.
-- 🌱 Exploring Kaggle on the side.
-- 💻 Open Source Contributor.
-- ⚡ In my free time I solve problems on Leetcode and read tech articles.
+- 🔭 Pre-training and Fine-tuning Large Langauge Models at scale.  ( FastTransformers, NeMo ).
+- 🌱 Optimizing Large Langauge Models for higher throuput/Latency for Inference. ( TRTLLM , vLLM ).
+- 🤖 Expert in Building Adavance Agents with on prem LLM's.
+- ⚡  Hands on Experience with building RAG at scale.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Vishwas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishwasgpai)
 
 My [Portfolio website](https://threepointone4.github.io/portfolio/).
